@@ -1,0 +1,5 @@
+{
+  "name": "Blockchain Project Planner",
+  "description": "An intelligent application that takes a high-level description of a blockchain project and uses Gemini to generate a structured, actionable project plan with categorized tasks and key technologies.",
+  "requestFramePermissions": []
+}
